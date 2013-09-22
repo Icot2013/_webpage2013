@@ -1,0 +1,5 @@
+chmod a+rx *
+chmod a+rx images
+chmod a+rx images/*
+chmod a+rx files
+chmod a+rx files/*
