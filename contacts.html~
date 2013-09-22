@@ -115,7 +115,7 @@ function MM_swapImage() {
 <div id="shape1" style="position:absolute; overflow:hidden; left:526px; top:283px; width:185px; height:19px; z-index:5; background-image:url(images/dot.gif)"></div>
 
 <div id="text1" style="position:absolute; overflow:hidden; left:62px; top:737px; width:443px; height:239px; z-index:6"><div class="wpmd">
-<div align=justify><B><a href="http://org.ntnu.no/icot/board.html" title="">Previous board members</a></B></div>
+<!--<div align=justify><B><a href="http://org.ntnu.no/icot/board.html" title="">Previous board members</a></B></div> -->
 <div align=justify><B><BR></B></div>
 <div align=justify><B>Contacts:</B></div>
 <div><font class="ws8"><BR></font></div>
@@ -218,11 +218,11 @@ function MM_swapImage() {
 </div>
 </TD>
 <TD width=137><div class="wpmd">
-<div><font class="ws8" face="Tahoma"> </font></div>
+<div><font class="ws8" face="Tahoma">iamhanifkhan@gmail.com </font></div>
 </div>
 </TD>
 <TD width=63><div class="wpmd">
-<div><font class="ws8" face="Tahoma"></font></div>
+<div><font class="ws8" face="Tahoma">45583640</font></div>
 </div>
 </TD>
 <TD width=63><div class="wpmd">
@@ -240,11 +240,11 @@ function MM_swapImage() {
 </div>
 </TD>
 <TD width=137><div class="wpmd">
-<div><font class="ws8" face="Tahoma"></font></div>
+<div><font class="ws8" face="Tahoma">eng.ushanth@yahoo.com</font></div>
 </div>
 </TD>
 <TD width=63><div class="wpmd">
-<div><font class="ws8" face="Tahoma"></font></div>
+<div><font class="ws8" face="Tahoma">45126486</font></div>
 
 </div>
 </TD>
@@ -264,7 +264,7 @@ function MM_swapImage() {
 </div>
 </TD>
 <TD width=137><div class="wpmd">
-<div><font class="ws8" face="Tahoma"></font></div>
+<div><font class="ws8" face="Tahoma">prakriti89@gmail.com</font></div>
 </div>
 </TD>
 <TD width=63><div class="wpmd">
